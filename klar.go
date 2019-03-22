@@ -8,11 +8,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/optiopay/klar/clair"
-	"github.com/optiopay/klar/docker"
-	"github.com/optiopay/klar/utils"
+	"github.com/naibaf0/klar/clair"
+	"github.com/naibaf0/klar/docker"
+	"github.com/naibaf0/klar/utils"
 
-	"gopkg.in/yaml.v2"
+	yaml "gopkg.in/yaml.v2"
 )
 
 //Used to represent the structure of the whitelist YAML file

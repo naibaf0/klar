@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/optiopay/klar/utils"
+	"github.com/naibaf0/klar/utils"
 )
 
 const (
